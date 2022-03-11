@@ -1,4 +1,4 @@
-program OperacionesB
+program Arithmetic
 
 ! Programa que realiza las operaciones básicas con dos números solicitados al usuario
 ! Compilación del programa en terminal
